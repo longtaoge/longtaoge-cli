@@ -1,6 +1,6 @@
 {
   "name": "longtaoge-cli",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "龙套哥命令行工具,为梦想加油!",
   "bin": {
     "longtaoge": "./longtaoge.js"

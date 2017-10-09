@@ -7,11 +7,13 @@ npm  命令行工具练习之作
 
 
 
-
 ### 安装
 npm install -g  longtaoge-cli
 
+
+cd app  //转到 APP 目录下
 longtaoge  --port 8080 --server ./www
+
 
 ### 使用
 
