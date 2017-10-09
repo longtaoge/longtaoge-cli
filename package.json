@@ -1,0 +1,28 @@
+{
+  "name": "longtaoge-cli",
+  "version": "0.0.3",
+  "description": "龙套哥命令行工具,为梦想加油!",
+  "bin": {
+    "longtaoge": "./longtaoge.js"
+
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longtaoge/longtaoge-cli.git"
+  },
+
+  "keywords": [
+    "龙套哥",
+    "龙套哥命令行"
+  ],
+  "author": "longtaoge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longtaoge/longtaoge-cli/issues"
+  },
+  "homepage": "https://github.com/longtaoge/longtaoge-cli#readme"
+}
