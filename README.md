@@ -6,6 +6,12 @@ npm  命令行工具练习之作
 初学npm 的示例代码 
 
 
+### 功能
+
+通过命令行实现静态网页服务器,
+ --port  服务器的端口号
+ --server 从server指定的目录返回地址栏的文件参数指定的文件
+
 
 ### 安装
 npm install -g  longtaoge-cli
